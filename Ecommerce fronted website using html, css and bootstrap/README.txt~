@@ -1,0 +1,33 @@
+DESCRIPTION: This is the solution to the e-commerce website using Html, Css, Js and Bootstrap.
+
+_____________________________________________Folder Structure__________________________________________________
+	
+	
+	project_solution/
+	├── css/ (contains all the css files)
+	│    ├── bootstrap.css
+	│    ├── bootstrap.min.css
+	│    └── style.css
+	├── fonts/ (contains glyphicons)
+	│    ├── glyphicons-halflings-regular.eot
+	│    ├── glyphicons-halflings-regular.svg
+	│    ├── glyphicons-halflings-regular.ttf
+	│    ├── glyphicons-halflings-regular.woff
+	│    └── glyphicons-halflings-regular.woff2
+	├── js/ (contains Bootstrap Js files.)
+	│    ├── bootstrap.js
+	│    └── bootstrap.min.js
+	|	 └── jquery.js
+	├──  img/
+	│    └── (contains all images required for developing the website)
+	├──  cart.html
+	├──  index.html
+	├──  login.html
+	├──  products.html
+	├──  settings.html
+	├──  signup.html
+	└──  success.html
+
+_
+LICENSE AND COPYRIGHT: All the images used for this project are representational images.
+I do not holds no copyright over these images.
